@@ -1,6 +1,6 @@
-# Happiu-piu new year!)
+# Another year passed...
 
-[![gif](https://user-images.githubusercontent.com/18072680/34253060-1ae25446-e657-11e7-8daa-19f57d1ebbf1.gif)](https://github.com/vaniacer/piu-piu-SH/tree/starship)
+![kdtime_small](https://user-images.githubusercontent.com/18072680/134333388-2f26b71d-c914-4995-8d15-ef57e909d245.gif)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Vaniacer?style=social)](https://twitter.com/Vaniacer)
 [![paypal](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/sshto?locale.x=en_US) <sup>Don't hold yourself, buy me a beer)</sup>
