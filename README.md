@@ -1,6 +1,6 @@
 # Piu-piu all the way...
 
-[![sysadmin](https://github.com/user-attachments/assets/8e566e5c-d71d-4b47-980d-adee53763635)](https://github.com/vaniacer/piu-piu-SH)
+[![summer](https://github.com/vaniacer/vaniacer/assets/18072680/6c16ed8a-2ad0-4b85-af4b-0387bed0302c)](https://github.com/vaniacer/piu-piu-SH)
 
 <a href="https://t.me/sshtobash"><img src="https://telegram.org/img/website_icon.svg" width="21"></a>
 [![Twitter Follow](https://img.shields.io/twitter/follow/Vaniacer?style=social)](https://twitter.com/Vaniacer)
